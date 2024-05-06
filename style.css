@@ -1,0 +1,80 @@
+svg{
+    width: 7%;
+    height: 7%;
+    margin-left: 3%;
+    margin-top: 1%;
+}
+#un{
+    margin-left: 1%;
+    font-size: 100%;
+}
+.logo{
+    width: 6%;
+    height: 6%;
+    margin-left: 5%;
+    border-radius: 50%;
+}
+.container{
+    display: flex;
+}
+.sub-item{
+    display: flex;
+}
+.container0{
+    margin-left: 5%;
+    border-left: 5%;
+}
+.contact{
+    background-color: rgb(238, 230, 230);
+    
+}
+h1{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 35px;
+}
+.eni_cover{
+    background-image: url(eni_fianarantsoa_cover.jpg);
+    background-size: cover;
+    height: 450px;
+    display: flex;
+}
+.imgtt{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+}
+.head{
+    text-align: center;
+    margin-left: 15%;
+    color: #fff;
+    margin-top: 5%;
+}
+span{
+    font-size: 500%;
+    width: 50%;
+}
+.header{
+    font-size: 150%;
+}
+.petit{
+    font-size: 190%;
+    margin-top: -1%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.header1{
+    font-size: 300%;
+    margin-top: -45px;
+}
+.anniv{
+    height: 100px;
+    width: 100px;
+    margin-left: 245px;
+    border-radius: 300px;
+}
+.base{font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 25px;
+    text-align: center;
+    max-width: 1050px;
+    margin-left: 10%;
+}
